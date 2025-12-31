@@ -1,8 +1,0 @@
-
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  transition: background-color 0.4s, #ffff 0.4s;
-}
