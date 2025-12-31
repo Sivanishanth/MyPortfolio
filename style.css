@@ -1,0 +1,17 @@
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  transition: background-color 0.4s, #ffff 0.4s;
+}
+
+#skills{
+  box-shadow: 5px 10px 10px  rgb(160, 112, 112);
+}
+
+#hover-contact a:hover {
+  background-color: rgb(118, 143, 143);
+  transition: 5s;
+}
